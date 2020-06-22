@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "320839971765",
+    "firebase_url": "https://login-firebase-demo-1.firebaseio.com",
+    "project_id": "login-firebase-demo-1",
+    "storage_bucket": "login-firebase-demo-1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:320839971765:android:b661507cb6c8156f959ffc",
+        "android_client_info": {
+          "package_name": "com.Damagreed.FirebaseLogin"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "320839971765-eq8aud8l3phautin9hu96lp61hr6an7c.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD-EQlzj3SvOwuWbckD21OSZXGzMfAhGSE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "320839971765-eq8aud8l3phautin9hu96lp61hr6an7c.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -243,8 +243,8 @@ PlayerSettings:
   AndroidTargetArchitectures: 1
   AndroidSplashScreenScale: 0
   androidSplashScreen: {fileID: 0}
-  AndroidKeystoreName: D:/file Kuliah/projekan/Im First Squad/Simple Login/Unity-Firebase-Login/sample.keystore
-  AndroidKeyaliasName: firebaselogin
+  AndroidKeystoreName: '{inproject}: sample.keystore'
+  AndroidKeyaliasName: sample
   AndroidBuildApkPerCpuArchitecture: 0
   AndroidTVCompatibility: 0
   AndroidIsGame: 1
